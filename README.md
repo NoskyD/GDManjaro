@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @GDManjaro
 - 👀 I’m interested in Minecraft API, Discord API
 - 🌱 I’m currently learning JS & Python 3
-- 💞️ I’m looking to collaborate on (i don't know lol)
+- 💞️ I’m looking to collaborate on GoldRenard (i can't collaborate with him because i don't know Java)
 
 <!---
 GDManjaro/GDManjaro is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
