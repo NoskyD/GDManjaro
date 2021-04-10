@@ -4,10 +4,6 @@
 - 💞️ I’m looking to collaborate on GoldRenard (i can't collaborate with him because i don't know Java)
 - 📦 I'm using SQLite3 DB
 - 💻 i'm programming for fun (I think and not only for this)
-|  Language  | Knowledge |
-| ---------- | ----------|
-| Python     |    94%    |
-| JavaScript |    76%    |
 <!---
 GDManjaro/GDManjaro is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
