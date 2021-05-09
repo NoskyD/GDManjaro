@@ -1,3 +1,5 @@
+![Python](https://img.shields.io/badge/-Python-%230075a8?logo=python&logoColor=white&style=flat-square)
+![JavaScript](https://img.shields.io/badge/-JavaScript-%23e9d54c?logo=javascript&logoColor=white&style=flat-square)
 # 👋 Hi, I’m @GDManjaro
 - 👀 I’m interested in Minecraft API, Discord API, Telegram API
 - 🌱 I’m currently learning JS & Python 3
