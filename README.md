@@ -9,7 +9,6 @@
 
 ![Thanks to Anurag's GitHub stats for this card](https://github-readme-stats.vercel.app/api?username=GDManjaro)
 
-..., встретили джина, 99 загадали быть белыми, а сотый, угорая от смеха, загадал чтобы они все опять стали черными.
 <!---
 GDManjaro/GDManjaro is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
